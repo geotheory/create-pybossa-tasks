@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="examples_south_kivu_tiles.kml" id="examples_south_kivu_tiles.kml">
+	<SimpleField name="TileX" type="int"></SimpleField>
+	<SimpleField name="TileY" type="int"></SimpleField>
+	<SimpleField name="TileZ" type="int"></SimpleField>
+</Schema>
+<Folder><name>examples_south_kivu_tiles.kml</name>
+  <Placemark>
+	<name>151596_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.054125162910836,0 28.186798095703125,-3.054125162910836,0 28.186798095703125,-3.055496502495956,0 28.1854248046875,-3.055496502495956,0 28.1854248046875,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.054125162910836,0 28.18817138671875,-3.054125162910836,0 28.18817138671875,-3.055496502495956,0 28.186798095703125,-3.055496502495956,0 28.186798095703125,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151596_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.055496502495956,0 28.186798095703125,-3.055496502495956,0 28.186798095703125,-3.056867840329076,0 28.1854248046875,-3.056867840329076,0 28.1854248046875,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.055496502495956,0 28.18817138671875,-3.055496502495956,0 28.18817138671875,-3.056867840329076,0 28.186798095703125,-3.056867840329076,0 28.186798095703125,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151596_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.056867840329076,0 28.186798095703125,-3.056867840329076,0 28.186798095703125,-3.058239176409387,0 28.1854248046875,-3.058239176409387,0 28.1854248046875,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.056867840329076,0 28.18817138671875,-3.056867840329076,0 28.18817138671875,-3.058239176409387,0 28.186798095703125,-3.058239176409387,0 28.186798095703125,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
