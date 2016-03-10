@@ -8,6 +8,54 @@
 </Schema>
 <Folder><name>examples_south_kivu_tiles.kml</name>
   <Placemark>
+	<name>151588_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.054125162910836,0 28.175811767578125,-3.054125162910836,0 28.175811767578125,-3.055496502495956,0 28.1744384765625,-3.055496502495956,0 28.1744384765625,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.054125162910836,0 28.17718505859375,-3.054125162910836,0 28.17718505859375,-3.055496502495956,0 28.175811767578125,-3.055496502495956,0 28.175811767578125,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.054125162910836,0 28.178558349609375,-3.054125162910836,0 28.178558349609375,-3.055496502495956,0 28.17718505859375,-3.055496502495956,0 28.17718505859375,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.054125162910836,0 28.179931640625,-3.054125162910836,0 28.179931640625,-3.055496502495956,0 28.178558349609375,-3.055496502495956,0 28.178558349609375,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.054125162910836,0 28.181304931640625,-3.054125162910836,0 28.181304931640625,-3.055496502495956,0 28.179931640625,-3.055496502495956,0 28.179931640625,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.054125162910836,0 28.18267822265625,-3.054125162910836,0 28.18267822265625,-3.055496502495956,0 28.181304931640625,-3.055496502495956,0 28.181304931640625,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.054125162910836,0 28.184051513671875,-3.054125162910836,0 28.184051513671875,-3.055496502495956,0 28.18267822265625,-3.055496502495956,0 28.18267822265625,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133297_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.054125162910836,0 28.1854248046875,-3.054125162910836,0 28.1854248046875,-3.055496502495956,0 28.184051513671875,-3.055496502495956,0 28.184051513671875,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
 	<name>151596_133297_18</name>
 	<description>TileX_TileY_TileZ</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
@@ -18,6 +66,54 @@
 	<description>TileX_TileY_TileZ</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.054125162910836,0 28.18817138671875,-3.054125162910836,0 28.18817138671875,-3.055496502495956,0 28.186798095703125,-3.055496502495956,0 28.186798095703125,-3.054125162910836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151588_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.055496502495956,0 28.175811767578125,-3.055496502495956,0 28.175811767578125,-3.056867840329076,0 28.1744384765625,-3.056867840329076,0 28.1744384765625,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.055496502495956,0 28.17718505859375,-3.055496502495956,0 28.17718505859375,-3.056867840329076,0 28.175811767578125,-3.056867840329076,0 28.175811767578125,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.055496502495956,0 28.178558349609375,-3.055496502495956,0 28.178558349609375,-3.056867840329076,0 28.17718505859375,-3.056867840329076,0 28.17718505859375,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.055496502495956,0 28.179931640625,-3.055496502495956,0 28.179931640625,-3.056867840329076,0 28.178558349609375,-3.056867840329076,0 28.178558349609375,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.055496502495956,0 28.181304931640625,-3.055496502495956,0 28.181304931640625,-3.056867840329076,0 28.179931640625,-3.056867840329076,0 28.179931640625,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.055496502495956,0 28.18267822265625,-3.055496502495956,0 28.18267822265625,-3.056867840329076,0 28.181304931640625,-3.056867840329076,0 28.181304931640625,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.055496502495956,0 28.184051513671875,-3.055496502495956,0 28.184051513671875,-3.056867840329076,0 28.18267822265625,-3.056867840329076,0 28.18267822265625,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133298_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.055496502495956,0 28.1854248046875,-3.055496502495956,0 28.1854248046875,-3.056867840329076,0 28.184051513671875,-3.056867840329076,0 28.184051513671875,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
 	<name>151596_133298_18</name>
@@ -32,6 +128,54 @@
       <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.055496502495956,0 28.18817138671875,-3.055496502495956,0 28.18817138671875,-3.056867840329076,0 28.186798095703125,-3.056867840329076,0 28.186798095703125,-3.055496502495956,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
+	<name>151588_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.056867840329076,0 28.175811767578125,-3.056867840329076,0 28.175811767578125,-3.058239176409387,0 28.1744384765625,-3.058239176409387,0 28.1744384765625,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.056867840329076,0 28.17718505859375,-3.056867840329076,0 28.17718505859375,-3.058239176409387,0 28.175811767578125,-3.058239176409387,0 28.175811767578125,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.056867840329076,0 28.178558349609375,-3.056867840329076,0 28.178558349609375,-3.058239176409387,0 28.17718505859375,-3.058239176409387,0 28.17718505859375,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.056867840329076,0 28.179931640625,-3.056867840329076,0 28.179931640625,-3.058239176409387,0 28.178558349609375,-3.058239176409387,0 28.178558349609375,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.056867840329076,0 28.181304931640625,-3.056867840329076,0 28.181304931640625,-3.058239176409387,0 28.179931640625,-3.058239176409387,0 28.179931640625,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.056867840329076,0 28.18267822265625,-3.056867840329076,0 28.18267822265625,-3.058239176409387,0 28.181304931640625,-3.058239176409387,0 28.181304931640625,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.056867840329076,0 28.184051513671875,-3.056867840329076,0 28.184051513671875,-3.058239176409387,0 28.18267822265625,-3.058239176409387,0 28.18267822265625,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133299_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.056867840329076,0 28.1854248046875,-3.056867840329076,0 28.1854248046875,-3.058239176409387,0 28.184051513671875,-3.058239176409387,0 28.184051513671875,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
 	<name>151596_133299_18</name>
 	<description>TileX_TileY_TileZ</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
@@ -42,6 +186,186 @@
 	<description>TileX_TileY_TileZ</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.056867840329076,0 28.18817138671875,-3.056867840329076,0 28.18817138671875,-3.058239176409387,0 28.186798095703125,-3.058239176409387,0 28.186798095703125,-3.056867840329076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151588_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.058239176409387,0 28.175811767578125,-3.058239176409387,0 28.175811767578125,-3.059610510736107,0 28.1744384765625,-3.059610510736107,0 28.1744384765625,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.058239176409387,0 28.17718505859375,-3.058239176409387,0 28.17718505859375,-3.059610510736107,0 28.175811767578125,-3.059610510736107,0 28.175811767578125,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.058239176409387,0 28.178558349609375,-3.058239176409387,0 28.178558349609375,-3.059610510736107,0 28.17718505859375,-3.059610510736107,0 28.17718505859375,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.058239176409387,0 28.179931640625,-3.058239176409387,0 28.179931640625,-3.059610510736107,0 28.178558349609375,-3.059610510736107,0 28.178558349609375,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.058239176409387,0 28.181304931640625,-3.058239176409387,0 28.181304931640625,-3.059610510736107,0 28.179931640625,-3.059610510736107,0 28.179931640625,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.058239176409387,0 28.18267822265625,-3.058239176409387,0 28.18267822265625,-3.059610510736107,0 28.181304931640625,-3.059610510736107,0 28.181304931640625,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.058239176409387,0 28.184051513671875,-3.058239176409387,0 28.184051513671875,-3.059610510736107,0 28.18267822265625,-3.059610510736107,0 28.18267822265625,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.058239176409387,0 28.1854248046875,-3.058239176409387,0 28.1854248046875,-3.059610510736107,0 28.184051513671875,-3.059610510736107,0 28.184051513671875,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151596_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.058239176409387,0 28.186798095703125,-3.058239176409387,0 28.186798095703125,-3.059610510736107,0 28.1854248046875,-3.059610510736107,0 28.1854248046875,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133300_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.058239176409387,0 28.18817138671875,-3.058239176409387,0 28.18817138671875,-3.059610510736107,0 28.186798095703125,-3.059610510736107,0 28.186798095703125,-3.058239176409387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151588_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.059610510736107,0 28.175811767578125,-3.059610510736107,0 28.175811767578125,-3.060981843308483,0 28.1744384765625,-3.060981843308483,0 28.1744384765625,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.059610510736107,0 28.17718505859375,-3.059610510736107,0 28.17718505859375,-3.060981843308483,0 28.175811767578125,-3.060981843308483,0 28.175811767578125,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.059610510736107,0 28.178558349609375,-3.059610510736107,0 28.178558349609375,-3.060981843308483,0 28.17718505859375,-3.060981843308483,0 28.17718505859375,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.059610510736107,0 28.179931640625,-3.059610510736107,0 28.179931640625,-3.060981843308483,0 28.178558349609375,-3.060981843308483,0 28.178558349609375,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.059610510736107,0 28.181304931640625,-3.059610510736107,0 28.181304931640625,-3.060981843308483,0 28.179931640625,-3.060981843308483,0 28.179931640625,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.059610510736107,0 28.18267822265625,-3.059610510736107,0 28.18267822265625,-3.060981843308483,0 28.181304931640625,-3.060981843308483,0 28.181304931640625,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.059610510736107,0 28.184051513671875,-3.059610510736107,0 28.184051513671875,-3.060981843308483,0 28.18267822265625,-3.060981843308483,0 28.18267822265625,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.059610510736107,0 28.1854248046875,-3.059610510736107,0 28.1854248046875,-3.060981843308483,0 28.184051513671875,-3.060981843308483,0 28.184051513671875,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151596_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.059610510736107,0 28.186798095703125,-3.059610510736107,0 28.186798095703125,-3.060981843308483,0 28.1854248046875,-3.060981843308483,0 28.1854248046875,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133301_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.059610510736107,0 28.18817138671875,-3.059610510736107,0 28.18817138671875,-3.060981843308483,0 28.186798095703125,-3.060981843308483,0 28.186798095703125,-3.059610510736107,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151588_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1744384765625,-3.060981843308483,0 28.175811767578125,-3.060981843308483,0 28.175811767578125,-3.06235317412569,0 28.1744384765625,-3.06235317412569,0 28.1744384765625,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151589_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.175811767578125,-3.060981843308483,0 28.17718505859375,-3.060981843308483,0 28.17718505859375,-3.06235317412569,0 28.175811767578125,-3.06235317412569,0 28.175811767578125,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151590_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.17718505859375,-3.060981843308483,0 28.178558349609375,-3.060981843308483,0 28.178558349609375,-3.06235317412569,0 28.17718505859375,-3.06235317412569,0 28.17718505859375,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151591_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.178558349609375,-3.060981843308483,0 28.179931640625,-3.060981843308483,0 28.179931640625,-3.06235317412569,0 28.178558349609375,-3.06235317412569,0 28.178558349609375,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151592_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.179931640625,-3.060981843308483,0 28.181304931640625,-3.060981843308483,0 28.181304931640625,-3.06235317412569,0 28.179931640625,-3.06235317412569,0 28.179931640625,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151593_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.181304931640625,-3.060981843308483,0 28.18267822265625,-3.060981843308483,0 28.18267822265625,-3.06235317412569,0 28.181304931640625,-3.06235317412569,0 28.181304931640625,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151594_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.18267822265625,-3.060981843308483,0 28.184051513671875,-3.060981843308483,0 28.184051513671875,-3.06235317412569,0 28.18267822265625,-3.06235317412569,0 28.18267822265625,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151595_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.184051513671875,-3.060981843308483,0 28.1854248046875,-3.060981843308483,0 28.1854248046875,-3.06235317412569,0 28.184051513671875,-3.06235317412569,0 28.184051513671875,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151596_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.1854248046875,-3.060981843308483,0 28.186798095703125,-3.060981843308483,0 28.186798095703125,-3.06235317412569,0 28.1854248046875,-3.06235317412569,0 28.1854248046875,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>151597_133302_18</name>
+	<description>TileX_TileY_TileZ</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>28.186798095703125,-3.060981843308483,0 28.18817138671875,-3.060981843308483,0 28.18817138671875,-3.06235317412569,0 28.186798095703125,-3.06235317412569,0 28.186798095703125,-3.060981843308483,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>
